@@ -1,2 +1,2 @@
 # ChildMalnutritionPrediction
-DoP on Child Malnutrition Prediction under Prof. Subhrakanta Panda. 
+LoP on Child Malnutrition Prediction under Prof. Subhrakanta Panda. 
