@@ -25,9 +25,7 @@ This README explains how to download, extract, and organize the **Anthrovision D
 
 - The downloaded file will be a **`.rar` archive**.
 - Extract the `.rar file **in the same directory** where it is downloaded.
-- Use the following passkey when prompted:
-
-Passkey : anthro123
+- Use the passkey mentioned in the e-mail when prompted.
 
 ---
 
@@ -35,6 +33,7 @@ Passkey : anthro123
 
 After successful extraction and setup, your project directory should look like this:
 
+```text
 LoP/
 │
 ├── Analytics Engine/
@@ -51,6 +50,7 @@ LoP/
 ├── lateralright/
 ├── selfie/
 └── handswide/
+```
 
 ---
 
