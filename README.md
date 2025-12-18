@@ -35,6 +35,7 @@ Passkey : anthro123
 
 After successful extraction and setup, your project directory should look like this:
 
+'''text
 LoP/
 │
 ├── Analytics Engine/
@@ -51,6 +52,7 @@ LoP/
 ├── lateralright/
 ├── selfie/
 └── handswide/
+'''
 
 ---
 
