@@ -25,4 +25,4 @@ Example naming convention:
 
 ## Note
 
-This folder is tracked in git to maintain the project structure. Add large result files to `.gitignore` if they exceed GitHub's file size limits.
+This folder is tracked in git to maintain the project structure. Add large result files (over 50MB) to `.gitignore` as GitHub has a file size limit of 100MB. Consider storing very large datasets and model outputs in external storage or cloud services.
